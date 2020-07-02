@@ -13,7 +13,7 @@ public class HomeController {
 	}
 	@RequestMapping("/vechical")
 	public String Cars() {
-		return "BMW,BENZ,HONDA,HYUNDI,BENTLI,TOYOTA";
+		return "BMW,BENZ,HONDA,HYUNDI,BENTLI,TOYOTA,YAMAHA";
 		
 	}
 
